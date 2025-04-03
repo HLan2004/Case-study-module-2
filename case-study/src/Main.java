@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class Main {
@@ -16,6 +17,7 @@ public class Main {
             System.out.println("5. Cập Nhật");
             System.out.println("6. Đọc từ file");
             System.out.println("7. Ghi vào file");
+            System.out.println("8. Sắp xếp");
             System.out.println("0. Thoát");
             System.out.print("Nhập lựa chọn: ");
 
